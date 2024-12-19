@@ -4,7 +4,7 @@ import { StatusBar } from 'expo-status-bar';
 
 function WelcomeScreen({ navigation }) {
   const handleStartClick = () => {
-    navigation.navigate('Second'); // Navigate to the "Second" screen
+    navigation.navigate('Third'); // Navigate to the "Second" screen
   };
 
   return (
