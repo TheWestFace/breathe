@@ -1,2 +1,2 @@
 # breathe
-a quick project during a brief break from data~
+a quick project during a short break from data~
